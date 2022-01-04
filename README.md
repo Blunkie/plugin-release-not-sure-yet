@@ -2,6 +2,6 @@
 
 Plugin Releases for the Fusion Client found at 
 
-#Discord
+# Discord
 
 https://discord.gg/UBMDQ6WjYq
