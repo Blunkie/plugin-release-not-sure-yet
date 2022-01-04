@@ -1,6 +1,6 @@
 # Fusion Client Plugins (Release) Repository.
 
-Plugin Releases for the Fusion Client found at 
+Plugin Releases for the Fusion Client
 
 # Discord
 
