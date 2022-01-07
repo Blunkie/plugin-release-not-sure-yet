@@ -1,4 +1,4 @@
-# Fusion Client Plugins (Release) Repository.
+# Fusion Plugins (Release) Repository.
 
 Plugin Releases for the Fusion Client
 
