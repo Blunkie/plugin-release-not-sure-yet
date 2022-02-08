@@ -1,4 +1,4 @@
-![SpoonLite](https://raw.githubusercontent.com/SpoonLite/spoon-plugins/main/SpoonLiteDisc.png)
+![Fusion](https://github.com/FusionClient/plugin-release/blob/master/Fusion_transparent.gif)
 # Fusion Plugins for OPRS
 Collection of plugins made by SpoonLite and other developers. These plugins are specifically made for OPRS-based clients.
 # Discord 
